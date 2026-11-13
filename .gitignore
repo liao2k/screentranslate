@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+build/
+*.app
+demo/
+*.zip
+*.tar.gz
+*.png
+*.mp4
+*.mov
